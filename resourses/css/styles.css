@@ -1,0 +1,20 @@
+* {
+    background-image: url("../../media/examples/lizard.png");background-color: antiquewhite;
+}
+
+h1 {
+   color: black; background-color:rgb(202, 27, 27): bolder; text-transform: uppercase;
+  }
+
+  #welcome_message {
+    font-family: cursive;
+  }
+
+p {
+    font-family: "IBM Plex Sans", sans-serif; 
+}
+
+h2 {
+    font-weight:bold; font-style: italic; font-style: italic;
+}
+
