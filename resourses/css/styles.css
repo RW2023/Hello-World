@@ -3,7 +3,7 @@
 }
 
 h1 {
-   color: black; background-color:rgb(202, 27, 27); bolder: text-transform: uppercase;
+   color: rgb(240, 235, 235); background-color:rgb(25, 23, 23); bolder: text-transform: uppercase; text-align: Center;
   }
 
   #welcome_message {
@@ -11,10 +11,12 @@ h1 {
   }
 
 p {
-    font-family: "IBM Plex Sans", sans-serif; 
+    font-family: georgia; sans-serif; font-size: 25px
 }
 
 h2 {
     font-weight:bold; font-style: italic; font-style: italic;
 }
+
+
 
