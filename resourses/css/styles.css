@@ -1,3 +1,8 @@
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 .heading 
 {
   font-family: 'Permanent Marker', cursive; text-transform: uppercase; 
@@ -5,15 +10,16 @@
 
 .content
 {
-  font-family: georgia; sans-serif; font-size: 19px
+  font-family: 'Chivo Mono', monospace; font-size: 25px
+  
 }
 
 body 
 {
-  /*background-image: url("/resourses/images/pexels-athena-3002080.");*/
+  background-image: url("https://i.ibb.co/NKrMYBL/pexels-miguel-padri-n-255379.jpg");background-repeat: repeat-y; size: 0px;
   /*Temporarily commenting out this element until we sqaure it away*/
   background-color: antiquewhite;
-  font-family: cursive;
+  font-family: 'Chivo Mono', monospace;
 }
 
 h1 
@@ -23,12 +29,12 @@ h1
 
 h2 
 {
-  font-weight: 50; font-style: italic; font-style: italic;
+  font-weight: 50; font-style: italic; font-style: italic;text-align: center;
 }
 
 p 
 {
-  font-family: georgia; sans-serif; font-size: 18px
+  font-family: 'Chivo Mono', monospace; font-size: 18px
 }
 
 
