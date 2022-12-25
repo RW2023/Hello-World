@@ -1,22 +1,37 @@
-* {
-    background-image: url("/resourses/images/pexels-athena-3002080.jpg");background-color: antiquewhite;
+.heading 
+{
+  font-family: 'Permanent Marker', cursive; text-transform: uppercase; 
 }
 
-h1 {
-   color: rgb(240, 235, 235); background-color:rgb(25, 23, 23); bolder: text-transform: uppercase; text-align: Center;
-  }
-
-  #welcome_message {
-    font-family: cursive;
-  }
-
-p {
-    font-family: georgia; sans-serif; font-size: 25px
+.content
+{
+  font-family: georgia; sans-serif; font-size: 19px
 }
 
-h2 {
-    font-weight:bold; font-style: italic; font-style: italic;
+body 
+{
+  /*background-image: url("/resourses/images/pexels-athena-3002080.");*/
+  /*Temporarily commenting out this element until we sqaure it away*/
+  background-color: antiquewhite;
+  font-family: cursive;
 }
+
+h1 
+{
+  color: rgb(240, 235, 235); background-color:rgb(25, 23, 23);text-transform: uppercase; text-align: Center; font-weight: 75;
+}
+
+h2 
+{
+  font-weight: 50; font-style: italic; font-style: italic;
+}
+
+p 
+{
+  font-family: georgia; sans-serif; font-size: 18px
+}
+
+
 
 
 
