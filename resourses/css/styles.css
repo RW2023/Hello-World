@@ -38,6 +38,14 @@ p
   border 2px dotted black
 }
 
+.byline {
+  border-bottom: 1px solid black;
+  border-top: 1px solid black;
+  color: black;
+  font-size: 20 px;
+  font-weight: 200;
+}
+
 
 
 
